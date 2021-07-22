@@ -50,3 +50,12 @@ compile_commands.json
 
 # QtCreator local machine specific files for imported projects
 *creator.user*
+
+# VSCode
+.vscode
+
+#recorded file
+.rec
+
+#Virtual Environment
+venv
